@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace loginWithCookieAuthentication.Pages;
+namespace LoginWithCookieAuthentication.Pages;
 
 public class IndexModel : PageModel
 {
